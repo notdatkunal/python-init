@@ -1,4 +1,6 @@
+hello = 4j
 hello = '''Hello My name is {} and I am here to use python'''
+query = 34
 query = "kunal"
 if " is " in hello:
     print("The word is present in the above string")
