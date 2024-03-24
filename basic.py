@@ -34,3 +34,24 @@ print("and he was  " + character_age + " years old")
 character_name = "kunal"
 
 print(character_name + " went to office yesterday at 1 am.")
+
+print(10 % 3)
+print(10 % 2)
+print(10 % 0.3)
+
+print(pow(2, 3))
+
+print(max(4, 6))
+print(min(4, 6))
+
+print(abs(-4.33))
+print(abs(4.33))
+print(round(4.33))
+
+lucky_number = input("enter your lucky number\n")
+second_lucky_number = input("enter your second lucky number\n")
+
+print("this is your lucky number " + lucky_number)
+print("this is your second lucky number " + second_lucky_number)
+
+
