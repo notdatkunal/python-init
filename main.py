@@ -3,7 +3,17 @@ from yay import kunal
 hello = 4j
 hello_string = '''Hello My name is {} and I am here to use python'''
 query = 34
+new_kunal = "this is new kunal string and I am very useful"
 query_string = "kunal"
+
+
+def joking_new_kunal(joking,yaay):
+    print(new_kunal)
+    print(joking)
+    print(yaay)
+
+
+joking_new_kunal("this is first string","this is second string")
 
 
 def j_kunal():
